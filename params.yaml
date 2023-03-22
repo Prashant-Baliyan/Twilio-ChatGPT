@@ -1,0 +1,4 @@
+# It contains all the configs required in the project
+
+app_config:
+  openai_api_key: "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"
