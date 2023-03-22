@@ -3,7 +3,10 @@ tqdm
 dvc
 pandas
 numpy
-PyYAML
+flask
+openai
+twilio
+os
 mkdocs-material
 ### local packages -
 # -e . # << uncomment this to install from setup.py
